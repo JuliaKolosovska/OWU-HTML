@@ -1,0 +1,31 @@
+.container{
+    width: 1000px;
+    height: 600px;
+    background: #35cd9f;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.blocks{
+    width: 100%;
+    height: 380px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block{
+    width: 28%;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #162029;
+}
